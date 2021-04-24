@@ -1,0 +1,60 @@
+#cart{
+    padding:140px 0 ;
+    display:flex;
+    justify-content: space-around;
+}
+.item{
+    float: left;
+    margin:30px;
+    clear: both;
+}
+.total{
+    width:100%;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+    margin-top:5px;
+}
+.delete{
+    background-color: transparent;
+    cursor: pointer;
+    margin-left: 50%;
+    transform: translate(-50%);
+    margin-top:10px;
+    margin-bottom: 10px;
+    font-size: 15px;
+    font-family: serif;
+}
+.delete:hover{
+    transition-duration: 0.2s;
+    letter-spacing: 4px;
+}
+
+#bill{
+    border:1px solid gray;
+    padding:30px;
+    min-width: 250px;
+    height:min-content;
+    font-family: sans-serif;
+}
+#bill p{
+    margin:20px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.total-payable{
+    border-top: 1px solid gray;
+    padding-top:15px;
+    
+}
+#bill button{
+    width:100%;
+    padding:15px;
+    cursor:not-allowed;
+    background-color: gray;
+    border-radius: 20px;
+    font-weight: bolder;
+    color:white;
+    font-size: 15px;
+    letter-spacing: 3px;
+}
