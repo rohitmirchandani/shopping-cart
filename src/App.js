@@ -2,7 +2,7 @@ import './App.css';
 import Home from './components/home'
 import Shop from './components/shop'
 import Cart from './components/cart';
-import {BrowserRouter as Router,Route,Link} from 'react-router-dom'
+import {BrowserRouter as Router,Route,Link,Switch} from 'react-router-dom'
 import { Component } from 'react';
 import a from './images/vans.jpg'
 import r from './images/puma.jpg'
@@ -78,10 +78,12 @@ onDelete(item){
           <li><img src="https://img.icons8.com/pastel-glyph/64/000000/fast-cart.png"/><Link to='/cart'>Cart</Link></li>
         </ul>
       </nav>
-      <Route id='home-div' path='/' exact component={Home}/>
-      <Route path = '/shop' component={()=><Shop onChange={this.changeCart} items ={this.items} cart ={this.state.cart}/>}/>
-      <Route  path='/cart' component={()=><Cart onChange={this.changeCart} items={this.items} cart  = {this.state.cart} onDelete={this.onDelete}/>} />
-    </Router>
+      <Switch>
+        <Route id='home-div' path='/' exact component={Home}/>
+        <Route path = '/shop' component={()=><Shop onChange={this.changeCart} items ={this.items} cart ={this.state.cart}/>}/>
+        <Route  path='/cart' component={()=><Cart onChange={this.changeCart} items={this.items} cart  = {this.state.cart} onDelete={this.onDelete}/>} />
+      </Switch>
+      </Router>
   );
 }
 }
