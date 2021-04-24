@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.a96c3dbc.chunk.css",
+    "main.js": "/shopping-cart/static/js/main.2260c9ce.chunk.js",
+    "main.js.map": "/shopping-cart/static/js/main.2260c9ce.chunk.js.map",
+    "runtime-main.js": "/shopping-cart/static/js/runtime-main.f89a1504.js",
+    "runtime-main.js.map": "/shopping-cart/static/js/runtime-main.f89a1504.js.map",
+    "static/js/2.f2f0b799.chunk.js": "/shopping-cart/static/js/2.f2f0b799.chunk.js",
+    "static/js/2.f2f0b799.chunk.js.map": "/shopping-cart/static/js/2.f2f0b799.chunk.js.map",
+    "index.html": "/shopping-cart/index.html",
+    "static/css/main.a96c3dbc.chunk.css.map": "/shopping-cart/static/css/main.a96c3dbc.chunk.css.map",
+    "static/js/2.f2f0b799.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.f2f0b799.chunk.js.LICENSE.txt",
+    "static/media/adidas-superstar.6e8989d0.jpg": "/shopping-cart/static/media/adidas-superstar.6e8989d0.jpg",
+    "static/media/balenciaga.9bae2b40.jpg": "/shopping-cart/static/media/balenciaga.9bae2b40.jpg",
+    "static/media/common-projects.5f79e076.jpg": "/shopping-cart/static/media/common-projects.5f79e076.jpg",
+    "static/media/converse-chuck-taylor.3dd5fb6a.jpg": "/shopping-cart/static/media/converse-chuck-taylor.3dd5fb6a.jpg",
+    "static/media/logo.6f777b3f.png": "/shopping-cart/static/media/logo.6f777b3f.png",
+    "static/media/new-balance.289e75cf.jpg": "/shopping-cart/static/media/new-balance.289e75cf.jpg",
+    "static/media/nike-air-force-1-07.b242bf64.jpg": "/shopping-cart/static/media/nike-air-force-1-07.b242bf64.jpg",
+    "static/media/nike-cortez.d49585cb.jpg": "/shopping-cart/static/media/nike-cortez.d49585cb.jpg",
+    "static/media/puma.c9f4e8c9.jpg": "/shopping-cart/static/media/puma.c9f4e8c9.jpg",
+    "static/media/sneaker-wallpaper-1.04b5c4e4.jpg": "/shopping-cart/static/media/sneaker-wallpaper-1.04b5c4e4.jpg",
+    "static/media/sneaker-wallpaper-2.0476c746.jpg": "/shopping-cart/static/media/sneaker-wallpaper-2.0476c746.jpg",
+    "static/media/sneaker-wallpaper-3.1c70cbd4.jpg": "/shopping-cart/static/media/sneaker-wallpaper-3.1c70cbd4.jpg",
+    "static/media/sneaker-wallpaper-4.8a77daeb.jpg": "/shopping-cart/static/media/sneaker-wallpaper-4.8a77daeb.jpg",
+    "static/media/vans.0b25d3cd.jpg": "/shopping-cart/static/media/vans.0b25d3cd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f89a1504.js",
+    "static/js/2.f2f0b799.chunk.js",
+    "static/css/main.a96c3dbc.chunk.css",
+    "static/js/main.2260c9ce.chunk.js"
+  ]
+}
