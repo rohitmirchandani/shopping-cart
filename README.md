@@ -1,7 +1,7 @@
 # Shoe Shopping Cart    
 A front-end website made with React Router for realtime updation of shopping cart .
 ## Demo
-You can view the site live [here](https://rohitmirchandani.github.io/restaurant-page/)
+You can view the site live [here](https://rohitmirchandani.github.io/shopping-cart/)
 
 ## Tech
 Javascript, React, React router, HTML, CSS.
